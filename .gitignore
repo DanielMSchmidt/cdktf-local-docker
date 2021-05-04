@@ -1,0 +1,4 @@
+node_modules/
+dist
+terraform.local-docker-project.tfstate
+terraform.local-docker-project.tfstate.backup
